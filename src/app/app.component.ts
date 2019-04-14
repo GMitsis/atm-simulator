@@ -63,5 +63,5 @@ export class AppComponent implements OnInit {
   openModal() {
     $("#resultModal").modal('show');
   }
-
 }
+
